@@ -15,5 +15,5 @@ Currently, I am:
 I am always interested in learning new technologies, improving my code, and collaborating on meaningful projects.
 
 📍 Tirana, Albania
-🌐 Portfolio: Coming soon
+🌐 Portfolio: [SamuelXh](https://www.samuelxh.com/)
 📫 Contact: [samuelxhixho20@gmail.com](mailto:samuelxhixho20@gmail.com)
