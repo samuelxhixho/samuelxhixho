@@ -1,19 +1,53 @@
-## 👋 About Me
+# 👋 About Me
 
-I'm **Samuel Xhixho**, an Applied Informatics student based in Tirana, Albania, focused on becoming a **Full-Stack Software Developer**.
+I'm **Samuel Xhixho**, an Applied Informatics student and **Full-Stack Software Developer** based in Tirana, Albania.
 
-I enjoy building practical applications, responsive websites, and complete systems that solve real problems. My main experience includes **Java, JavaScript, PHP, Python, SQL, HTML, and CSS**, along with tools such as **Git, GitHub, MySQL, Supabase, and REST APIs**.
+I enjoy building complete applications from frontend interfaces to backend APIs, databases, authentication, and deployment infrastructure. My current focus is on developing scalable, maintainable systems using modern web technologies and solid software engineering practices.
 
-Currently, I am:
+### 💻 Current Tech Stack
 
-* Building and improving full-stack web and mobile applications
-* Developing **CircleChat**, a real-time messaging application
-* Creating professional websites for local businesses
-* Strengthening my backend development and database skills
-* Looking for junior developer, internship, and freelance opportunities
+**Frontend**
 
-I am always interested in learning new technologies, improving my code, and collaborating on meaningful projects.
+* Angular
+* TypeScript
+* JavaScript
+* HTML & CSS
+* React Native / Expo
 
-📍 Tirana, Albania
-🌐 Portfolio: [SamuelXh](https://www.samuelxh.com/)
-📫 Contact: [samuelxhixho20@gmail.com](mailto:samuelxhixho20@gmail.com)
+**Backend**
+
+* Java
+* Spring Boot
+* REST APIs
+
+**Data & Infrastructure**
+
+* PostgreSQL
+* Redis
+* Docker
+* Flyway
+* Testcontainers
+
+**Tools**
+
+* Git & GitHub
+* IntelliJ IDEA
+* VS Code
+* Postman
+
+### 🚀 What I'm Working On
+
+* Building a full-stack **E-Commerce & Shop Management System** with Angular, Spring Boot, PostgreSQL, Redis, Docker, and Flyway
+* Working with **Angular + Spring Boot** on real-world application features and production-style codebases
+* Developing **CircleChat**, a real-time mobile messaging application with authentication, groups, media sharing, moderation, and realtime communication
+* Improving my knowledge of backend architecture, database design, API development, security, testing, and scalable application design
+
+### 🎯 Current Focus
+
+I'm focused on becoming a stronger **Full-Stack / Backend-oriented Software Developer**, writing cleaner code, understanding system architecture more deeply, and building applications that go beyond tutorials into real-world use cases.
+
+I'm always interested in challenging projects, learning from experienced developers, and collaborating on software that solves practical problems.
+
+📍 **Tirana, Albania**
+🌐 **Portfolio:** [samuelxh.com](https://www.samuelxh.com/)
+📫 **Contact:** [samuelxhixho20@gmail.com](mailto:samuelxhixho20@gmail.com)
