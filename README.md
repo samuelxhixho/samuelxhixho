@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Samuel Xhixho Banner" />
+<img src="./assets/profile_header.webp" width="100%" alt="Samuel Xhixho Banner" />
 
 # Hey, I'm Samuel 👋
 
