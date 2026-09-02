@@ -1,53 +1,110 @@
-# 👋 About Me
+<div align="center">
 
-I'm **Samuel Xhixho**, an Applied Informatics student and **Full-Stack Software Developer** based in Tirana, Albania.
+<img src="./assets/banner.png" width="100%" alt="Samuel Xhixho Banner" />
 
-I enjoy building complete applications from frontend interfaces to backend APIs, databases, authentication, and deployment infrastructure. My current focus is on developing scalable, maintainable systems using modern web technologies and solid software engineering practices.
+# Hey, I'm Samuel 👋
 
-### 💻 Current Tech Stack
+### Full-Stack Software Developer
 
-**Frontend**
+Building modern web applications with  
+**Angular • Spring Boot • Java • TypeScript • PostgreSQL**
 
-* Angular
-* TypeScript
-* JavaScript
-* HTML & CSS
-* React Native / Expo
+<br>
 
-**Backend**
+[![Portfolio](https://img.shields.io/badge/Portfolio-samuelxh.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.samuelxh.com/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelxhixho20@gmail.com)
 
-* Java
-* Spring Boot
-* REST APIs
+</div>
 
-**Data & Infrastructure**
+---
 
-* PostgreSQL
-* Redis
-* Docker
-* Flyway
-* Testcontainers
+## 👨‍💻 About Me
 
-**Tools**
+I'm **Samuel Xhixho**, a Full-Stack Software Developer from Tirana, Albania, with a Bachelor's degree in Applied Informatics.
 
-* Git & GitHub
-* IntelliJ IDEA
-* VS Code
-* Postman
+I enjoy building complete applications — from responsive frontend interfaces to backend APIs, databases, authentication, testing, and deployment infrastructure.
 
-### 🚀 What I'm Working On
+I'm currently focused on becoming a stronger **Full-Stack / Backend-oriented developer** and gaining experience working with real-world production codebases.
 
-* Building a full-stack **E-Commerce & Shop Management System** with Angular, Spring Boot, PostgreSQL, Redis, Docker, and Flyway
-* Working with **Angular + Spring Boot** on real-world application features and production-style codebases
-* Developing **CircleChat**, a real-time mobile messaging application with authentication, groups, media sharing, moderation, and realtime communication
-* Improving my knowledge of backend architecture, database design, API development, security, testing, and scalable application design
+---
 
-### 🎯 Current Focus
+## 🚀 What I'm Building
 
-I'm focused on becoming a stronger **Full-Stack / Backend-oriented Software Developer**, writing cleaner code, understanding system architecture more deeply, and building applications that go beyond tutorials into real-world use cases.
+### 🛒 E-Commerce & Shop Management System
 
-I'm always interested in challenging projects, learning from experienced developers, and collaborating on software that solves practical problems.
+A full-stack management platform for products, SKUs, inventory, pricing, customers, orders, and shop operations.
 
-📍 **Tirana, Albania**
-🌐 **Portfolio:** [samuelxh.com](https://www.samuelxh.com/)
-📫 **Contact:** [samuelxhixho20@gmail.com](mailto:samuelxhixho20@gmail.com)
+`Angular` `Spring Boot` `Java` `PostgreSQL` `Redis` `Docker`
+
+### 💬 CircleChat
+
+A real-time mobile messaging application with direct messages, groups, media sharing, reactions, presence, and moderation.
+
+`React Native` `Expo` `TypeScript` `Supabase`
+
+### 🌙 NightClock
+
+An OLED-friendly Android clock designed for bedside and desk use with timers, multiple clock styles, customization, and burn-in protection.
+
+`Kotlin` `Jetpack Compose` `Android`
+
+---
+
+## 🧰 Technologies
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,react" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis" />
+
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelxhixho&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelxhixho&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- Building production-style applications with **Angular + Spring Boot**
+- Improving backend architecture and API design
+- Writing cleaner and more maintainable code
+- Database design and application security
+- Testing and deployment workflows
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-samuelxh.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.samuelxh.com/)
+[![Email](https://img.shields.io/badge/Email-samuelxhixho20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelxhixho20@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building, learning, and improving one project at a time.
+
+</div>
