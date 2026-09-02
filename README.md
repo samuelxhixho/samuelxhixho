@@ -74,12 +74,11 @@ An OLED-friendly Android clock designed for bedside and desk use with timers, mu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelxhixho&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelxhixho&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Samuel's GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelxhixho&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelxhixho&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 
 </div>
-
 ---
 
 ## 🎯 Currently Focused On
